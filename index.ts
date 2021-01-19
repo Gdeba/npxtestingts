@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('FUNCIONAAAA COÑOOO')
+console.log('FUNCIONAAAA ALMA DE CANTARO')
